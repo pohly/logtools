@@ -5,7 +5,7 @@ and now also supports other checks.
 
 # Installation
 
-`go install sigs.k8s.io/logtools/logcheck`
+`go install github.com/pohly/logtools/logcheck`
 
 # Usage
 

@@ -24,7 +24,7 @@ import (
 	"fmt"
 
 	"golang.org/x/tools/go/analysis"
-	"sigs.k8s.io/logtools/logcheck/pkg"
+	"github.com/pohly/logtools/logcheck/pkg"
 )
 
 type analyzerPlugin struct{}

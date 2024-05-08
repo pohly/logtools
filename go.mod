@@ -1,4 +1,4 @@
-module sigs.k8s.io/logtools
+module github.com/pohly/logtools
 
 go 1.20
 
